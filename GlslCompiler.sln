@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlslCompiler", "GlslCompiler\GlslCompiler.csproj", "{460BC3D4-ACD7-43D0-BFB7-8DFEF8533CA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460BC3D4-ACD7-43D0-BFB7-8DFEF8533CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460BC3D4-ACD7-43D0-BFB7-8DFEF8533CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460BC3D4-ACD7-43D0-BFB7-8DFEF8533CA4}.Debug|x64.ActiveCfg = Debug|x64
+		{460BC3D4-ACD7-43D0-BFB7-8DFEF8533CA4}.Debug|x64.Build.0 = Debug|x64
+		{460BC3D4-ACD7-43D0-BFB7-8DFEF8533CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460BC3D4-ACD7-43D0-BFB7-8DFEF8533CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460BC3D4-ACD7-43D0-BFB7-8DFEF8533CA4}.Release|x64.ActiveCfg = Release|x64
+		{460BC3D4-ACD7-43D0-BFB7-8DFEF8533CA4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D438057-2DE6-4575-A315-4B27EB8DF554}
+	EndGlobalSection
+EndGlobal
